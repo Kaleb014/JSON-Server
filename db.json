@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 8548989,
+      "category": "new example",
+      "title": "Example New",
+      "description": "This is so I have 2 events per page.",
+      "location": "Somewhere",
+      "date": "April 26, 1992",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Bradley"
     }
   ]
 }
