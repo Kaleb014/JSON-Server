@@ -46,8 +46,8 @@
     },
     {
       "id": 7584895,
-      "category": "new example",
-      "title": "Example New",
+      "category": "other example",
+      "title": "Other Example",
       "description": "This is so I have 2 events per page.",
       "location": "Somewhere",
       "date": "April 26, 1992",
@@ -57,6 +57,8 @@
     },
     {
       "id": 2224548,
+      "category": "other other example",
+      "title": "Other Other Example",
       "description": "This is so I have 2 events per page.",
       "location": "Somewhere",
       "date": "April 26, 1992",
